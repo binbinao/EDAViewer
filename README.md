@@ -2,6 +2,8 @@
 
 ![EDAV](/client/assets/img/EditorScreenshot.png?raw=true)
 
+**Note:** This version is a new release based on the public repository, with fixes for compilation issues.
+
 EDAV is a cloud-based open-source viewer for electronic design automation (EDA) design files: [Library Exchange Format (LEF) & Design Exchange Format (DEF)](http://www.ispd.cc/contests/19/lefdefref.pdf)
 
 **Website:** [https://edaviewer.com](https://edaviewer.com)
